@@ -1,1 +1,1 @@
-The guided_project directory contains a project from the Data Management with Databricks: Big Data with Delta Lakes cousera guided project
+The guided_project directory contains a project from the Data Management with Databricks: Big Data with Delta Lakes cousera guided project. The goal is to create Delta Tables in Databricks then write, transform, and query data.
